@@ -1,7 +1,7 @@
-- 👋 Hi, my name is Ajay Singh
-- 👀 I’m interested in Data Structures and like to work on Python, C++, Java
-- 🌱 I’m currently learning System Design
-- 💞️ I’m looking to collaborate on projects consisting of Algorithms of Machine Learning.
+- 👋 Hi, my name is Ajay Singh, a 2021 B.Tech graduate in the field of Information Technology. 
+- 👀 I like to practice DSA questions on various platforms and have a sound knowledge of Computer Fundamentals ( Operating System, DBMS, Computer Networks).
+- 🌱 I’m currently learning System Design.
+- 💞️ I’m looking to collaborate on projects consisting of Machine Learning Algorithms.
 - 📫 I'm reachable at ajay2011singh10@gmail.com
 
 <!---
